@@ -1,0 +1,24 @@
+{
+    "iid": "201712121",
+    "source": [
+        {
+            "name": "主力地址",
+            "url": "http://014670.cn/jx/mg.php?url="
+        },
+        {
+            "name": "备用地址1",
+            "url": "http://api.baiyug.cn/vip/index.php?url=",
+            "Referer":"http://api.baiyug.cn"
+        },
+        {
+            "name": "备用地址2",
+            "url": "https://api.flvsp.com/?vid=",
+            "Referer":"http://1717ty.duapp.com"
+        },
+        {
+            "name": "备用地址3",
+            "url": "http://api.iy11.cn/apiget.php?url=",
+            "Referer":"http://api.iy11.cn"
+        }
+    ]
+}

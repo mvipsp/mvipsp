@@ -1,0 +1,19 @@
+{
+    "show":true,
+    "iid": "201712121",
+    "version": {
+        "other": true
+    },
+    "source": [
+        {
+            "title": "下载页面闪退的处理办法",
+            "url": "http://mvipsp.com/crash.html",
+            "inapp":true
+        },
+        {
+            "title": "使用小贴士",
+            "url": "http://mvipsp.com/notice.html",
+            "inapp":true
+        }
+    ]
+}
