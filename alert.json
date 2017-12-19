@@ -1,14 +1,5 @@
 {
-    "show": true,
-    "update": {
-        "lastest": "1.2.5",
-        "title": "智能解析的1.2.5版本发布啦!",
-        "message": "总有用户给我反馈说优酷看不了看不了看不了，那肿么办肿么办肿么办，不用担心，从1.2.5版本开始，都可以看了，智能解析上线，你们还想添加啥平台，告诉我添加哦！",
-        "url": "http://mvipsp.com",
-        "forceList": {
-            "other": true
-        }
-    },
+    "show": false,
     "alert": {
         "show": false
     }
