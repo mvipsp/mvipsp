@@ -10,7 +10,8 @@
                 "/cover/"
             ],
             "blist": [
-                "tenvideo2://"
+                "tenvideo2://",
+                "login"
             ]
         },
         {
@@ -23,7 +24,8 @@
             ],
             "blist": [
                 "youku://",
-                "link-jump.youku.com"
+                "link-jump.youku.com",
+                "account.youku.com"
             ]
         },
         {
@@ -35,7 +37,9 @@
                 "iqiyi.com/v_"
             ],
             "blist": [
-                "iqiyi://"
+                "iqiyi://",
+                "m.iqiyi.com/u/",
+                "iqiyi.com/user"
             ]
         },
         {
@@ -50,6 +54,7 @@
             ],
             "blist": [
                 "imgotv://",
+                "login",
                 "https://mtest.api.hunantv.com/download.html"
             ]
         }
