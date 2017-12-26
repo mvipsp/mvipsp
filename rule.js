@@ -70,8 +70,7 @@
             } else {
                 firstStr = mobileAdress;
             }
-            var pos = firstStr.lastIndexOf('==.html');
-            if (pos + 7 == firstStr.length) {
+            if (firstStr.indexOf('id_') > 0) {
                 fullPath = firstStr;
                 var oStr = 'm.youku.com/video';
                 var nStr = 'v.youku.com/v_show';
