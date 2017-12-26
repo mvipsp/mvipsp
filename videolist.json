@@ -4,7 +4,7 @@
         {
             "title": "腾讯",
             "image": "http://is1.mzstatic.com/image/thumb/Purple128/v4/58/1a/f7/581af7b3-7f11-0a41-2bf1-7c7af18bec02/source/175x175bb.jpg",
-            "url": "https://v.qq.com",
+            "url": "http://v.qq.com",
             "platform": "qq",
             "key": [
                 "/cover/"
@@ -17,7 +17,7 @@
         {
             "title": "优酷",
             "image": "http://is1.mzstatic.com/image/thumb/Purple118/v4/68/cf/ae/68cfaee2-0840-04fc-2beb-591183b2bc7f/source/175x175bb.jpg",
-            "url": "https://www.youku.com",
+            "url": "http://www.youku.com",
             "platform": "youku",
             "key": [
                 "id_"
@@ -31,7 +31,7 @@
         {
             "title": "爱奇艺",
             "image": "http://is4.mzstatic.com/image/thumb/Purple128/v4/52/61/9f/52619f51-c790-2e72-fc9d-b2c1e9b446a5/source/175x175bb.jpg",
-            "url": "https://www.iqiyi.com",
+            "url": "http://www.iqiyi.com",
             "platform": "iqiyi",
             "key": [
                 "iqiyi.com/v_"
@@ -46,7 +46,7 @@
         {
             "title": "芒果TV",
             "image": "http://is4.mzstatic.com/image/thumb/Purple128/v4/9f/aa/c9/9faac94f-6a85-fc99-da66-28c0778ce5b0/source/175x175bb.jpg",
-            "url": "https://www.mgtv.com/",
+            "url": "http://www.mgtv.com/",
             "platform": "mgtv",
             "key": [
                 "mgtv.com/#/b",
