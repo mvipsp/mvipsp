@@ -19,14 +19,11 @@
             "url": "https://www.youku.com",
             "platform": "youku",
             "key": [
-                "==.html"
+                "id_"
             ],
             "blist": [
                 "youku://",
                 "link-jump.youku.com"
-            ],
-            "tipkey": [
-                "/video/"
             ]
         },
         {
