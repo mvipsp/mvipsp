@@ -1,5 +1,5 @@
 {
-    "iid": "201712121",
+    "iid": "201712122",
     "source": [
         {
             "name": "主力地址",
@@ -12,8 +12,8 @@
         },
         {
             "name": "备用地址2",
-            "url": "https://api.flvsp.com/?vid=",
-            "Referer":"http://1717ty.duapp.com"
+            "url": "http://api.nepian.com/ckparse/?url=",
+            "Referer":"http://api.nepian.com"
         },
         {
             "name": "备用地址3",
