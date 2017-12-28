@@ -17,7 +17,7 @@ function monitor(funName, monitorFun) {
     return ret;
   };
   parentObj[funName] = ljFun;
-}
+};
 
 monitor("bofang", function(cs) {
   window.webkit.messageHandlers.M360KanPlayer.postMessage(cs[1]);
