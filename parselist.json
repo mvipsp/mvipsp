@@ -1,5 +1,5 @@
 {
-    "iid": "201712122",
+    "iid": "201712281",
     "source": [
         {
             "name": "主力地址",
@@ -7,7 +7,7 @@
         },
         {
             "name": "备用地址1",
-            "url": "http://api.baiyug.cn/vip/index.php?url=",
+            "url": "http://api.baiyug.cn/vip/?url=",
             "Referer":"http://api.baiyug.cn"
         },
         {
