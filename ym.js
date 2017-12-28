@@ -5,8 +5,8 @@ function addHook(functionB, functionA, parent) {
     for (var i in parent) {
         if (parent[i] === functionA) {
             parent[i] = function() {
-                functionB();
-                return functionA.apply(this, arguments)
+                functionB.apply(this, arguments);
+                return false;
             }
             break;
         }
