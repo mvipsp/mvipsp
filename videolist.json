@@ -1,5 +1,5 @@
 {
-    "iid": "201801021",
+    "iid": "201801022",
     "source": [
         {
             "title": "腾讯",
@@ -70,10 +70,6 @@
         }
     ],
     "config": {
-        "ad": true,
-        "share": false,
-        "ashare": true,
-        "sharec": "我正在用“免vip视频”客户端看视频，腾讯、优酷、爱奇艺不要会员免费看",
-        "sharet": 604800
+        "ad": true
     }
 }
