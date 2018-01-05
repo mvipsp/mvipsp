@@ -6,7 +6,7 @@
         "message": "好用的不得了，去掉了朋友圈分享，再次提醒，请保存软件下载地址mvipsp.com（免vip视频的缩写），软件遭遇不可控力(你懂得)，随时可能over！",
         "url": "http://mvipsp.com",
         "forceList": {
-            "other": false
+            "other": true
         }
     },
     "alert": {
