@@ -1,9 +1,9 @@
 {
     "show": true,
     "update": {
-        "lastest": "1.2.9",
+        "lastest": "1.3.0",
         "title": "修复了播放器不能播的问题!",
-        "message": "好用的不得了，去掉了朋友圈分享，再次提醒，请保存软件下载地址mvipsp.com（免vip视频的缩写），软件遭遇不可控力(你懂得)，随时可能over！",
+        "message": "本版本全力支持iPad，同时修复<播放>不能正常播放的问题，再次提醒，请保存软件下载地址mvipsp.com（免vip视频的缩写），软件遭遇不可控力(你懂得)，随时可能over！",
         "url": "http://mvipsp.com",
         "forceList": {
             "other": true
