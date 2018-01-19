@@ -1,15 +1,10 @@
 {
     "show":true,
-    "iid": "201712292",
+    "iid": "201712293",
     "version": {
         "other": true
     },
     "source": [
-        {
-            "title": "【活动】微信免费送5元红包",
-            "url": "http://mvipsp.com/wxhd.html",
-            "inapp":true
-        },
         {
             "title": "使用小贴士",
             "url": "http://mvipsp.com/notice.html",
