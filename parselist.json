@@ -2,20 +2,6 @@
     "iid": "201712122",
     "source": [
         {
-            "name": "主力地址",
-            "url": "http://014670.cn/jx/mg.php?url="
-        },
-        {
-            "name": "备用地址1",
-            "url": "http://api.baiyug.cn/vip/index.php?url=",
-            "Referer":"http://api.baiyug.cn"
-        },
-        {
-            "name": "备用地址2",
-            "url": "http://api.nepian.com/ckparse/?url=",
-            "Referer":"http://api.nepian.com"
-        },
-        {
             "name": "备用地址3",
             "url": "http://api.iy11.cn/apiget.php?url=",
             "Referer":"http://api.iy11.cn"
