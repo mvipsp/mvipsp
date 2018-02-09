@@ -1,5 +1,5 @@
 {
-    "iid": "201712281",
+    "iid": "201802091",
     "source": [
         {
             "name": "主力地址",
@@ -17,8 +17,8 @@
         },
         {
             "name": "备用地址3",
-            "url": "http://api.iy11.cn/apiget.php?url=",
-            "Referer":"http://api.iy11.cn"
+            "url": "http://api.goudaitv.com/tz/mgtv.php?vid=",
+            "Referer":"http://www.yitouxiong.cn/js/player/mgtv.html"
         }
     ]
 }
