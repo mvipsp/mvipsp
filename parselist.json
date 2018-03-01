@@ -2,8 +2,8 @@
     "iid": "201712122",
     "source": [
         {
-            "name": "备用地址1",
-            "url": "http://api.baiyug.cn/vip/index.php?url=",
+            "name": "主力地址",
+            "url": "http://api.baiyug.cn/vip/?url=",
             "Referer":"http://api.baiyug.cn"
         }
     ]
