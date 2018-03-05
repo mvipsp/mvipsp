@@ -5,15 +5,6 @@
             "name": "主力地址",
             "url": "http://api.baiyug.cn/vip/?url=",
             "Referer":"http://api.baiyug.cn"
-        },
-        {
-            "name": "备用地址1",
-            "url": "http://014670.cn/jx/mg.php?url="
-        },
-        {
-            "name": "备用地址2",
-            "url": "http://api.nepian.com/ckparse/?url=",
-            "Referer":"http://api.nepian.com"
         }
     ]
 }
