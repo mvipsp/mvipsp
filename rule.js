@@ -47,7 +47,8 @@
                     htmlStr = htmlStr.replace('.html','');
                     fullPath = tfStr + htmlStr + '/' + vid + '.html';
                 } else {
-                    fullPath = firstStr;
+                    htmlStr = htmlStr.replace('.html','');
+                    fullPath = tfStr + htmlStr + '.html';
                 }
             } else {
                 fullPath = mobileAdress;
