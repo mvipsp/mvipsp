@@ -47,8 +47,7 @@
                     htmlStr = htmlStr.replace('.html','');
                     fullPath = tfStr + htmlStr + '/' + vid + '.html';
                 } else {
-                    htmlStr = htmlStr.replace('.html','');
-                    fullPath = tfStr + htmlStr + '.html';
+                    htmlStr = firstStr;
                 }
             } else {
                 fullPath = mobileAdress;
@@ -58,13 +57,6 @@
             if (fullPath.indexOf(oStr) >= 0) {
                 fullPath = fullPath.replace(oStr, nStr);
             }
-
-            var oStr2 = '/cover/c/';
-            var nStr2 = '/cover/';
-            if (fullPath.indexOf(oStr2) >= 0) {
-                fullPath = fullPath.replace(oStr2, nStr2);
-            }
-
             return fullPath;
         };
 
