@@ -47,6 +47,7 @@
                     htmlStr = htmlStr.replace('.html','');
                     fullPath = tfStr + htmlStr + '/' + vid + '.html';
                 } else {
+                    htmlStr = htmlStr.replace('.html','');
                     fullPath = tfStr + htmlStr + '.html';
                 }
             } else {
