@@ -57,6 +57,13 @@
             if (fullPath.indexOf(oStr) >= 0) {
                 fullPath = fullPath.replace(oStr, nStr);
             }
+
+            var oStr2 = '/cover/c/';
+            var nStr2 = '/cover/';
+            if (fullPath.indexOf(oStr2) >= 0) {
+                fullPath = fullPath.replace(oStr2, nStr2);
+            }
+
             return fullPath;
         };
 
@@ -70,8 +77,7 @@
             } else {
                 firstStr = mobileAdress;
             }
-            var pos = firstStr.lastIndexOf('==.html');
-            if (pos + 7 == firstStr.length) {
+            if (firstStr.indexOf('id_') > 0) {
                 fullPath = firstStr;
                 var oStr = 'm.youku.com/video';
                 var nStr = 'v.youku.com/v_show';
