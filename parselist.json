@@ -2,9 +2,9 @@
     "iid": "201802094",
     "source": [
         {
-            "name": "主力地址",
-            "url": "http://api.baiyug.cn/vip/?url=",
-            "Referer":"http://api.baiyug.cn"
+            "name": "备用地址3",
+            "url": "http://api.iy11.cn/apiget.php?url=",
+            "Referer":"http://api.iy11.cn"
         }
     ]
 }
