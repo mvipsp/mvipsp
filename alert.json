@@ -1,12 +1,12 @@
 {
     "show": true,
     "update": {
-        "lastest": "1.3.0",
-        "title": "修复了播放器不能播的问题!",
-        "message": "本版本全力支持iPad，同时修复<播放>不能正常播放的问题，再次提醒，请保存软件下载地址mvipsp.com（免vip视频的缩写），软件遭遇不可控力(你懂得)，随时可能over！",
+        "lastest": "1.3.2",
+        "title": "修复了若干bug!",
+        "message": "总有小伙伴告诉我说为啥播放到一半就停住了，作者潜心研究终于给解决了，顺便随手把历史记录打开不正常的问题也给解决了，再次提醒，请保存软件下载地址mvipsp.com（免vip视频的缩写），软件遭遇不可控力(你懂得)，随时可能over！",
         "url": "http://mvipsp.com",
         "forceList": {
-            "other": true
+            "other": false
         }
     },
     "alert": {
