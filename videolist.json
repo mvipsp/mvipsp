@@ -1,5 +1,5 @@
 {
-    "iid": "201803081",
+    "iid": "201803201",
     "source": [
         {
             "title": "腾讯",
@@ -57,6 +57,20 @@
                 "imgotv://",
                 "login",
                 "https://mtest.api.hunantv.com/download.html"
+            ]
+        },
+        {
+            "title": "搜狐视频",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2d/4e/e5/2d4ee5bd-424a-f101-6b33-b3febcc08021/AppIcon-1x_U007emarketing-85-220-4.png/175x0w.jpg",
+            "url": "https://m.tv.sohu.com/",
+            "platform": "sohu",
+            "key": [
+                "aid",
+                "vid"
+            ],
+            "blist": [
+                "itc.cn",
+                "login"
             ]
         },{
             "title": "影视大全",
