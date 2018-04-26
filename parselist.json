@@ -1,5 +1,5 @@
 {
-    "iid": "201803071",
+    "iid": "201804261",
     "source": [
         {
             "name": "主力地址",
@@ -17,8 +17,8 @@
         },
         {
             "name": "备用地址3",
-            "url": "http://www.1717yun.com/jx/ty.php?url=",
-            "Referer":"http://www.1717yun.com"
+            "url": "http://120.79.226.129:8802/?url=",
+            "Referer":"http://app.520xc.cn"
         }
     ]
 }
