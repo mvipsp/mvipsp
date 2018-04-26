@@ -1,5 +1,5 @@
 {
-    "iid": "201804261",
+    "iid": "201804262",
     "source": [
         {
             "name": "主力地址",
@@ -12,8 +12,8 @@
         },
         {
             "name": "备用地址2",
-            "url": "http://api.nepian.com/ckparse/?url=",
-            "Referer":"http://api.nepian.com"
+            "url": "http://39.108.227.115:8808/ckflv/?url=",
+            "Referer":"http://app.520xc.cn"
         },
         {
             "name": "备用地址3",
