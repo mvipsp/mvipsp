@@ -9,6 +9,10 @@
         },
         "title":"证书到期",
         "message":"亲爱的用户，iOS的证书到期，请关注我们的qq群285772281等待恢复上线",
-        "actions":"http://mvipsp.com"
+        "actions": {
+            "title": "打开加群链接",
+            "action":"https://jq.qq.com/?_wv=1027&k=5uGhwGi",
+            "inapp":false
+        }
     }
 }
