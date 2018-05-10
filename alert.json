@@ -15,6 +15,11 @@
             "title": "打开加群链接",
             "action":"https://jq.qq.com/?_wv=1027&k=5uGhwGi",
             "inapp":false
+            },
+            {
+            "title": "忽略，还能用",
+            "action":"",
+            "inapp":false
             }
         ]
     }
