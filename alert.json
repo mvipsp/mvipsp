@@ -2,8 +2,8 @@
     "show": true,
     "alert": {
         "show": true,
-        "starttime":201805101900,
-        "endtime":201807101900,
+        "starttime":"201805101900",
+        "endtime":"201807101900",
         "version": {
             "other": true
         },
