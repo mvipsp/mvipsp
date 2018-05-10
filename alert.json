@@ -1,15 +1,14 @@
 {
     "show": true,
-    "update": {
-        "lastest": "1.5.0",
-        "title": "修复了重大bug啊啊啊~!",
-        "message": "最近作者用app看电影，每次视频播放2分钟的时候就闪退~多次尝试还是闪退，不能忍，果断改之！所以发布了v1.5版本，我们的地址还是http://mvipsp.com (免vip视频)的缩写",
-        "url": "http://mvipsp.com",
-        "forceList": {
-            "other": false
-        }
-    },
     "alert": {
-        "show": false
+        "show": true,
+        "starttime":201805101900,
+        "endtime":201807101900,
+        "version": {
+            "other": true
+        },
+        "title":"证书到期",
+        "message":"亲爱的用户，iOS的证书到期，请关注我们的qq群285772281等待恢复上线",
+        "actions":"http://mvipsp.com"
     }
 }
