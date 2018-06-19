@@ -1,5 +1,5 @@
 {
-    "iid": "201805031",
+    "iid": "201806191",
     "source": [
         {
             "name": "主力地址",
@@ -8,13 +8,12 @@
         },
         {
             "name": "备用地址1",
-            "url": "http://39.108.227.115:8808/ckflv/?url=",
-            "Referer":"http://app.520xc.cn"
+            "url": "http://014670.cn/jx/ty.php?url="
         },
         {
             "name": "备用地址2",
-            "url": "http://120.79.226.129:8802/?url=",
-            "Referer":"http://app.520xc.cn"
+            "url": "http://jiexi.071811.cc/jx2.php?url=",
+            "Referer":"http://jiexi.071811.cc"
         }
     ]
 }
