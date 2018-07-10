@@ -1,9 +1,9 @@
 {
-    "iid": "201806191",
+    "iid": "201807101",
     "source": [
         {
             "name": "主力地址",
-            "url": "http://api.baiyug.cn/vip/?url=",
+            "url": "http://yun.baiyug.cn/vip/?url=",
             "Referer":"http://api.baiyug.cn"
         },
         {
@@ -12,8 +12,8 @@
         },
         {
             "name": "备用地址2",
-            "url": "http://jiexi.071811.cc/jx2.php?url=",
-            "Referer":"http://jiexi.071811.cc"
+            "url": "http://www.1717yun.com/jx/ty.php?url=",
+            "Referer":"http://www.1717yun.com"
         }
     ]
 }
