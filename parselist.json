@@ -1,19 +1,18 @@
 {
-    "iid": "201807101",
+    "iid": "201811033",
     "source": [
         {
             "name": "主力地址",
-            "url": "http://yun.baiyug.cn/vip/?url=",
-            "Referer":"http://api.baiyug.cn"
+            "url": "http://api.bbbbbb.me/jx/?url="
         },
         {
             "name": "备用地址1",
-            "url": "http://014670.cn/jx/ty.php?url="
+            "url": "http://app.baiyug.cn:2019/vip/?url=",
+            "Referer":"http://api.baiyug.cn"
         },
         {
             "name": "备用地址2",
-            "url": "http://www.1717yun.com/jx/ty.php?url=",
-            "Referer":"http://www.1717yun.com"
+            "url": "http://000o.cc/jx/ty.php?url="
         }
     ]
 }
