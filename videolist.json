@@ -1,5 +1,5 @@
 {
-    "iid": "201807101",
+    "iid": "201811041",
     "source": [
         {
             "title": "腾讯",
@@ -58,17 +58,9 @@
                 "login",
                 "https://mtest.api.hunantv.com/download.html"
             ]
-        },{
-            "title": "影视大全",
-            "image": "http://is3.mzstatic.com/image/thumb/Purple118/v4/7f/3e/99/7f3e9945-437d-6ea8-64e6-0afb01afaed9/source/175x175bb.jpg",
-            "url": "http://www.zbkj.club",
-            "platform": "360kan",
-            "blist": [
-                "qq.com"
-            ]
         }
     ],
     "config": {
-        "ad": true
+        "ad": false
     }
 }
