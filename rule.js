@@ -25,6 +25,7 @@
             var pos = firstStr.lastIndexOf('.html');
             if (pos + 5 == firstStr.length) {
                 var vid;
+                var cid;
                 var firstStrArr = firstStr.split('/');
                 var htmlStr = firstStrArr[firstStrArr.length - 1];
                 if (num > 0) {
@@ -41,13 +42,43 @@
                         }
                     }
                     vid = parammap['vid'];
+                    cid = parammap['cid'];
+
+                    if (vid != null && vid.length == 0) {
+                        vid = null;
+                    }
+
+                    if (cid != null && cid.length == 0) {
+                        cid = null;
+                    }
                 }
                 var tfStr = 'https://v.qq.com/x/cover/';
-                if(vid != null) {
-                    htmlStr = htmlStr.replace('.html','');
-                    fullPath = tfStr + htmlStr + '/' + vid + '.html';
+
+                htmlStr = htmlStr.replace('.html','');
+                if (htmlStr == "play") {
+                    htmlStr = null;
+                }
+                if (vid != null && cid != null) {
+                    if (htmlStr != null) {
+                        fullPath = tfStr + htmlStr + '/' + cid + '/' + vid + '.html';
+                    } else {
+                        fullPath = tfStr + cid + '/' + vid + '.html';
+                    }
+                    
+                } else if(vid != null) {
+                    if (htmlStr != null) {
+                        fullPath = tfStr + htmlStr + '/' + vid + '.html';
+                    } else {
+                        fullPath = tfStr + vid + '.html';
+                    }
+                } else if(cid != null) {
+                    if (htmlStr != null) {
+                        fullPath = tfStr + htmlStr + '/' + cid + '.html';
+                    } else {
+                        fullPath = tfStr + cid + '.html';
+                    }
                 } else {
-                    fullPath = firstStr;
+                    fullPath = tfStr + htmlStr + '.html';
                 }
             } else {
                 fullPath = mobileAdress;
@@ -57,6 +88,13 @@
             if (fullPath.indexOf(oStr) >= 0) {
                 fullPath = fullPath.replace(oStr, nStr);
             }
+
+            var oStr2 = '/cover/c/';
+            var nStr2 = '/cover/';
+            if (fullPath.indexOf(oStr2) >= 0) {
+                fullPath = fullPath.replace(oStr2, nStr2);
+            }
+
             return fullPath;
         };
 
