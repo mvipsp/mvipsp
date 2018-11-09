@@ -2,7 +2,7 @@
     "iid": "201806191",
     "source": [
         {
-            "title": "腾讯",
+            "title": "请升级",
             "image": "http://is1.mzstatic.com/image/thumb/Purple128/v4/58/1a/f7/581af7b3-7f11-0a41-2bf1-7c7af18bec02/source/175x175bb.jpg",
             "url": "http://v.qq.com",
             "platform": "qq",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "title": "优酷",
+            "title": "app",
             "image": "http://is1.mzstatic.com/image/thumb/Purple118/v4/68/cf/ae/68cfaee2-0840-04fc-2beb-591183b2bc7f/source/175x175bb.jpg",
             "url": "http://www.youku.com",
             "platform": "youku",
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "title": "爱奇艺",
+            "title": "即将",
             "image": "http://is4.mzstatic.com/image/thumb/Purple128/v4/52/61/9f/52619f51-c790-2e72-fc9d-b2c1e9b446a5/source/175x175bb.jpg",
             "url": "http://www.iqiyi.com",
             "platform": "iqiyi",
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "title": "芒果TV",
+            "title": "不维护",
             "image": "http://is4.mzstatic.com/image/thumb/Purple128/v4/9f/aa/c9/9faac94f-6a85-fc99-da66-28c0778ce5b0/source/175x175bb.jpg",
             "url": "http://www.mgtv.com/",
             "platform": "mgtv",
@@ -59,9 +59,9 @@
                 "https://mtest.api.hunantv.com/download.html"
             ]
         },{
-            "title": "影视大全",
-            "image": "http://is3.mzstatic.com/image/thumb/Purple118/v4/7f/3e/99/7f3e9945-437d-6ea8-64e6-0afb01afaed9/source/175x175bb.jpg",
-            "url": "http://www.zbkj.club",
+            "title": "点我升级",
+            "image": "http://mvipsp.com/assets/120.png",
+            "url": "http://mvipsp.com",
             "platform": "360kan",
             "blist": [
                 "qq.com",
