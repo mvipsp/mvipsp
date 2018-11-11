@@ -1,14 +1,14 @@
 {
     "show":true,
-    "iid": "201712293",
+    "iid": "201811111",
     "version": {
         "other": true
     },
     "source": [
         {
-            "title": "使用小贴士",
-            "url": "http://mvipsp.com/notice.html",
-            "inapp":true
+            "title": "app升级提示，点击查看详情，请尽快升级",
+            "url": "http://mvipsp.com/updateapp.html",
+            "inapp":false
         }
     ]
 }
