@@ -1,9 +1,9 @@
 {
-    "iid": "201811041",
+    "iid": "201904241",
     "source": [
         {
             "name": "主力地址",
-            "url": "http://api.bbbbbb.me/jx/?url="
+            "url": "https://jx.daheiyun.com/?url="
         },
         {
             "name": "备用地址1",
@@ -12,11 +12,11 @@
         },
         {
             "name": "备用地址2",
-            "url": "http://000o.cc/jx/ty.php?url="
+            "url": "http://vip.jlsprh.com/?url="
         },
         {
             "name": "备用地址3",
-            "url": "http://zy.1717yun.com/1717yun/?url=",
+            "url": "https://www.1717yun.com/jx/ty.php?url=",
             "Referer":"http://app.1717yun.com"
         }
     ]
